@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @asjad895
-- 👀 I’m interested in AI &dDS
+- 👋 Hi, I’m @asjad
+- 👀 I’m doing btech in AI&DS from iiitdm kurnool(2024 passout)
 - 🌱 I’m currently Exploring ML,DL,NLP ...and Pararllel processing Tech for Big Data
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me 
