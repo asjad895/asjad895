@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me 
 - mail:mdasjad895@gmail.com
+- linked in:https://www.linkedin.com/in/md-asjad-314501211/
 
 <!---
 asjad895/asjad895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
