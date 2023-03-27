@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me 
 - mail:mdasjad895@gmail.com
-- ![<Linkedin>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Linked In>&logoColor=<blue>)
+- ![Badge Text](https://img.shields.io/badge/Background Color-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)
 - linked in:https://www.linkedin.com/in/md-asjad-314501211/
 - - AI/ML Hackathon Profile
 - - Machine Hack:https://machinehack.com/user/61ddf5bc267ac8724df03092?tab=hackathon
