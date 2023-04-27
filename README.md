@@ -3,6 +3,9 @@
 - 🌱 I’m currently Exploring ML,DL,NLP ...and Pararllel processing Tech for Big Data
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me 
+- Backend :python,django,Rest Api
+- Frontend:html,css,javascript
+- Tools:Tensorflow,Pytorch
 - mail:mdasjad895@gmail.com
 - ![LinkedIn](https://img.shields.io/badge/Background_Color-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)
 - linked in:https://www.linkedin.com/in/md-asjad-314501211/
