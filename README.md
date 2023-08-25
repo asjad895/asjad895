@@ -29,7 +29,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- - AI/ML Hackathon Profile
-- - Machine Hack:https://machinehack.com/user/61ddf5bc267ac8724df03092?tab=hackathon
-- - Kaggle:https://www.kaggle.com/asjad2024
-
