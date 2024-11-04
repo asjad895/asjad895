@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @asjad<br>👀 I did btech in AI&DS from iiitdm kurnool(2024 passout)<br>🌱 I’m currently Working on ML,DL,NLP Computer vision<br>💞️ I’m looking to collaborate on Data science projects
+👋 Hi, I’m @asjad<br>👀 I did my B.Tech in AI&DS from IIITDM KURNOOL(2024)<br>🌱 I’m currently Working on ML,DL,NLP Computer vision<br>💞️ I’m looking to collaborate on Data science projects
 
 
 ## 🌐 Socials:
